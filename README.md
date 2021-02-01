@@ -1,4 +1,4 @@
-# JavabasedAndroid_Training  
+# JavabasedAndroid_study
 
 Online training at the 2020 Open SW Developer Competition  
 : (Mobile) Java based Android 9.0(pie) APP development  
